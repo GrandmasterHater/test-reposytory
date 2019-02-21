@@ -1,2 +1,2 @@
-Hey
-Hello there
+Hey;
+Hello there;
